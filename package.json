@@ -1,0 +1,10 @@
+{
+  "name": "oauth2-injector",
+  "version": "0.1.0",
+  "author": "",
+  "description": "OAuth2.0 for RouteInjector",
+  "main": "index.js",
+  "dependencies": {
+    "oauth2-express": "git+https://github.com/GerardSoleCa/node-oauth2-provider"
+  }
+}

@@ -1,0 +1,10 @@
+{
+	"name": "oauth2-injector",
+	"statics": [{
+		"url": "/oauth2",
+		"folder": "lib"
+	}],
+	"assets":{
+		"js": ["oauth2/config.js", "oauth2/login.js"]
+	}
+}
