@@ -1,7 +1,7 @@
 {
 	"name": "oauth2-injector",
 	"statics": [{
-		"url": "/oauth2",
+		"url": "/admin/oauth2",
 		"folder": "lib"
 	}],
 	"assets":{
