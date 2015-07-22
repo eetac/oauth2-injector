@@ -5,6 +5,6 @@
 		"folder": "lib"
 	}],
 	"assets":{
-		"js": ["oauth2/config.js", "oauth2/login.js"]
+		"js": ["oauth2/login.js", "oauth2/config.js"]
 	}
 }
